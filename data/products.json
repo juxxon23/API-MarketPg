@@ -1,0 +1,45 @@
+{
+	"anim": [
+			"gato",
+			"conejo",
+			"perro",
+			"cerdo",
+			"pulpo"	
+	],
+	"lang": [
+			"espanol",
+			"ingles",
+			"frances",
+			"esperanto",
+			"ruso"
+	],
+	"prog": [
+			"c",
+			"lisp",
+			"python",
+			"c++",
+			"scala"
+	],
+	"coun": [
+			"colombia",
+			"italia",
+			"rusia",
+			"cuba",
+			"finlandia"
+	],
+	"spor": [
+			"futbol",
+			"baloncesto",
+			"atletismo",
+			"natacion",
+			"tenis"
+	],
+	"food": [
+			"banano",
+			"manzana",
+			"espinaca",
+			"brocoli",
+			"kiwi"
+	]
+}
+
