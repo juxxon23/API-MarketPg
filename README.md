@@ -1,5 +1,5 @@
 # API-MarketPg
 Required dependencies
-  Flask
-  Marshmallow
-  Bcrypt
+  * Flask
+  * Marshmallow
+  * Bcrypt
